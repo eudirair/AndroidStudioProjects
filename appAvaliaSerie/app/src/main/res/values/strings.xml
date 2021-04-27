@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">appAvaliaSerie</string>
+    <string name="titulo_tela">Dados da série</string>
+    <string name="titulo">Título</string>
+    <string name="genero">Gênero</string>
+    <string name="cidade">Cidade</string>
+    <string name="ativa">Está ativa?</string>
+    <string name="sua_avaliacao">Sua avaliação</string>
+    <string name="menu_avaliar">Avaliar</string>
+    <array name="genero">
+        <item>Aventura<item>
+        </item>Comédia<item>
+        </item>Crime<item>
+        </item>Documentário<item>
+        </item>Drama<item>
+        </item>Esporte<item>
+        </item>Ficção<item>
+        </item>Científica<item>
+        </item>Guerra<item>
+        </item>Médico<item>
+        </item>Policial<item>
+        </item>Romance<item>
+        </item>Suspense<item>
+        </item>Terror</item>
+    </array>
+</resources>

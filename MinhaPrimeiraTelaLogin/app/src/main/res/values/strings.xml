@@ -1,0 +1,31 @@
+<resources>
+    <!-- <string name="app_name">Minha Primeira TelaLogin</string> -->
+
+    <string name="app_name">foodDelivery</string>
+    <string name="titulo_tela">Dados do Restaurante</string>
+    <string name="titulo">Razão Social</string>
+    <string name="genero">Qualidade do atendimento</string>
+    <string name="cidade">Você recomendaria este Restaurantes ?</string>
+    <string name="ativa">Estabelecimento</string>
+    <string name="sua_avaliacao">Com quantas estrelas você qualifica ?</string>
+    <string name="menu_avaliar">Avaliar</string>
+    <array name="genero">
+        <item>Regular</item>
+        <item>Bom</item>
+        <item>Ótimo</item>
+        <item>Excelente</item>
+        <item>Ruim</item>
+        <item>Péssimo</item>
+        <item>Horrível</item>
+        <item>Científica</item>
+    </array>
+
+    <array name="cidade">
+        <item>Sim</item>
+        <item>Com certeza</item>
+        <item>Não</item>
+        <item>Nunca</item>
+        <item>Jamais</item>
+    </array>
+
+</resources>

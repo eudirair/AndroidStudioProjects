@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDidaticoIntents</string>
+    <string name="informe_name">Informe seu nome</string>
+    <string name="butao_acao">SURPREENDA-ME</string>
+    <string name="saudacao">Olá </string>
+    <string name="texto">OLA</string>
+</resources>

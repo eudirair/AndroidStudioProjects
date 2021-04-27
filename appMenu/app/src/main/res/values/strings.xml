@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appMenu</string>
+    <string name="recarregar">RECARREGAR</string>
+    <string name="sobre">SOBRE</string>
+</resources>
